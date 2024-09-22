@@ -27,7 +27,7 @@
 
         combo_esc {
             timeout-ms = <50>;
-            key-positions = <14 15>;
+            key-positions = <14 13>;
             bindings = <&kp ESC>;
         };
 
@@ -39,7 +39,7 @@
 
         combo_tvp2 {
             bindings = <&tog 5>;
-            key-positions = <20 21 22>;
+            key-positions = <20 21 19>;
         };
     };
 
